@@ -25,3 +25,4 @@ _site
 vendor
 Gemfile.lock
 >>>>>>> de2a6d4 (Initial GitHub pages site with Jekyll)
+.DS_Store
